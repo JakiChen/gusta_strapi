@@ -1,1 +1,0 @@
-# gusta_strapi
